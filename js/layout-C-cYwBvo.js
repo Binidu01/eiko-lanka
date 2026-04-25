@@ -1,1 +1,0 @@
-import{n as e,r as t,t as n}from"./index-CeuetDMo.js";var r=t(e(),1),i=n();function a({children:e}){return(0,i.jsx)(r.Fragment,{children:e})}export{a as default};
